@@ -1,0 +1,178 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "course": "Platform Based Programming",
+        "description": "An introduction to programming on different platforms including mobile, web, and desktop applications.",
+        "imgUrl": "https://www.shutterstock.com/image-vector/application-smartphone-business-graph-analytics-260nw-1583248045.jpg",
+        "totalTopics": 5,
+        "topics": [
+          { "topicId": 1, "name": "Introduction to Platforms", "content": "Overview of various platforms and their development environments." },
+          { "topicId": 2, "name": "Mobile App Development", "content": "Basics of developing applications for Android and iOS." },
+          { "topicId": 3, "name": "Web Development", "content": "Creating interactive and responsive web applications." },
+          { "topicId": 4, "name": "Desktop Applications", "content": "Developing applications for Windows and macOS." },
+          { "topicId": 5, "name": "Cross-Platform Tools", "content": "Using tools like React Native and Xamarin for cross-platform development." }
+        ],
+        "lecturers": ["Dr. John Doe", "Prof. Jane Smith"]
+      },
+      {
+        "id": 2,
+        "course": "Data Structures & Algorithms",
+        "description": "A comprehensive study of data structures and algorithms for efficient data manipulation.",
+        "imgUrl": "https://media.geeksforgeeks.org/wp-content/uploads/20220520182504/ClassificationofDataStructure-660x347.jpg",
+        "totalTopics": 6,
+        "topics": [
+          { "topicId": 6, "name": "Introduction to Data Structures", "content": "Overview of different types of data structures." },
+          { "topicId": 7, "name": "Arrays and Linked Lists", "content": "Understanding and implementing arrays and linked lists." },
+          { "topicId": 8, "name": "Stacks and Queues", "content": "Learning stack and queue operations and applications." },
+          { "topicId": 9, "name": "Trees and Graphs", "content": "Exploring tree and graph structures and their algorithms." },
+          { "topicId": 10, "name": "Sorting Algorithms", "content": "Implementation and analysis of various sorting techniques." },
+          { "topicId": 11, "name": "Searching Algorithms", "content": "Exploring different searching methods and their complexities." }
+        ],
+        "lecturers": ["Prof. Alice Brown", "Dr. Robert Green"]
+      },
+      {
+        "id": 3,
+        "course": "Research Methodology & Scientific Writing",
+        "description": "Guidelines and practices for conducting research and writing scientific papers.",
+        "imgUrl": "https://research.com/uploads/How_to_Write_Research_Methodology_2_1_1024x625_bd65754561.jpg",
+        "totalTopics": 4,
+        "topics": [
+          { "topicId": 12, "name": "Introduction to Research", "content": "Basic concepts and importance of research." },
+          { "topicId": 13, "name": "Research Methods", "content": "Different methods and approaches for conducting research." },
+          { "topicId": 14, "name": "Data Collection and Analysis", "content": "Techniques for gathering and analyzing research data." },
+          { "topicId": 15, "name": "Scientific Writing", "content": "Best practices for writing and publishing scientific papers." }
+        ],
+        "lecturers": ["Dr. Emily White"]
+      },
+      {
+        "id": 4,
+        "course": "Operating System",
+        "description": "Study of operating system concepts, design, and implementation.",
+        "imgUrl": "https://artoftesting.com/wp-content/uploads/2022/02/operating-system.png",
+        "totalTopics": 5,
+        "topics": [
+          { "topicId": 16, "name": "Introduction to Operating Systems", "content": "Overview and history of operating systems." },
+          { "topicId": 17, "name": "Process Management", "content": "Concepts of process, threads, and their management." },
+          { "topicId": 18, "name": "Memory Management", "content": "Techniques for memory allocation and management." },
+          { "topicId": 19, "name": "File Systems", "content": "Understanding file systems and storage management." },
+          { "topicId": 20, "name": "Security and Protection", "content": "Mechanisms for ensuring security and protection in operating systems." }
+        ],
+        "lecturers": ["Prof. Michael Lee", "Dr. Linda Johnson"]
+      },
+      {
+        "id": 5,
+        "course": "Linear Algebra",
+        "description": "Fundamentals of linear algebra and its applications in various fields.",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKn7QAWtkwbbk7-WIZxHbYd_hhZ7Y8hM04g&s",
+        "totalTopics": 4,
+        "topics": [
+          { "topicId": 21, "name": "Vectors and Matrices", "content": "Basic operations and properties of vectors and matrices." },
+          { "topicId": 22, "name": "Determinants and Eigenvalues", "content": "Understanding determinants and eigenvalues of matrices." },
+          { "topicId": 23, "name": "Linear Transformations", "content": "Concepts and applications of linear transformations." },
+          { "topicId": 24, "name": "Systems of Linear Equations", "content": "Solving systems of linear equations using various methods." }
+        ],
+        "lecturers": ["Dr. Daniel Kim"]
+      },
+      {
+        "id": 6,
+        "course": "Statistics & Probability",
+        "description": "Introduction to statistical methods and probability theory.",
+        "imgUrl": "https://www.ncetm.org.uk/media/lwrgoniv/secondary-mastery-pd-theme-5-header.jpg",
+        "totalTopics": 5,
+        "topics": [
+          { "topicId": 25, "name": "Descriptive Statistics", "content": "Methods for summarizing and describing data." },
+          { "topicId": 26,
+          "imgUrl": "", "name": "Probability Theory", "content": "Fundamentals of probability and its applications." },
+          { "topicId": 27, "name": "Random Variables", "content": "Understanding random variables and their distributions." },
+          { "topicId": 28, "name": "Inferential Statistics", "content": "Techniques for making inferences about populations from samples." },
+          { "topicId": 29, "name": "Hypothesis Testing", "content": "Methods for testing hypotheses and drawing conclusions." }
+        ],
+        "lecturers": ["Prof. Sarah Davis", "Dr. William Martinez"]
+      },
+      {
+        "id": 7,
+        "course": "Interaction System",
+        "description": "Study of human-computer interaction and designing user interfaces.",
+        "imgUrl": "https://i.ytimg.com/vi/i5uAQFXMWXA/maxresdefault.jpg",
+        "totalTopics": 4,
+        "topics": [
+          { "topicId": 30, "name": "Introduction to HCI", "content": "Overview of human-computer interaction principles." },
+          { "topicId": 31, "name": "User Interface Design", "content": "Principles and techniques for designing effective user interfaces." },
+          { "topicId": 32, "name": "Usability Testing", "content": "Methods for evaluating and improving usability of systems." },
+          { "topicId": 33, "name": "Accessibility", "content": "Designing systems for accessibility and inclusivity." }
+        ],
+        "lecturers": ["Dr. Jessica Wilson"]
+      },
+      {
+        "id": 8,
+        "course": "Advanced Programming",
+        "description": "In-depth study of advanced programming concepts and techniques.",
+        "imgUrl": "https://www.superprof.co.in/blog/wp-content/uploads/2019/04/computer-programming-and-coding.jpg",
+        "totalTopics": 4,
+        "topics": [
+          { "topicId": 34, "name": "Object-Oriented Programming", "content": "Advanced concepts in object-oriented programming." },
+          { "topicId": 35, "name": "Functional Programming", "content": "Principles and applications of functional programming." },
+          { "topicId": 36, "name": "Concurrent Programming", "content": "Techniques for writing concurrent and parallel programs." },
+          { "topicId": 37, "name": "Design Patterns", "content": "Common design patterns and their applications." }
+        ],
+        "lecturers": ["Prof. Mark Taylor", "Dr. Steven Brown"]
+      },
+      {
+        "id": 9,
+        "course": "Language & Automata Theory",
+        "description": "Study of formal languages, automata, and computational theory.",
+        "imgUrl": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/96b800e98632.png",
+        "totalTopics": 4,
+        "topics": [
+          { "topicId": 38, "name": "Formal Languages", "content": "Introduction to formal languages and grammars." },
+          { "topicId": 39, "name": "Finite Automata", "content": "Concepts and applications of finite automata." },
+          { "topicId": 40, "name": "Context-Free Grammars", "content": "Understanding context-free grammars and pushdown automata." },
+          { "topicId": 41, "name": "Turing Machines", "content": "Exploring Turing machines and their significance in computation." }
+        ],
+        "lecturers": ["Dr. Christopher Johnson"]
+      },
+      {
+        "id": 10,
+        "course": "Database",
+        "description": "Fundamentals of database design, implementation, and management.",
+        "imgUrl": "https://cdn.hackr.io/uploads/posts/large/1675331763VOF13OpS4M.jpg",
+        "totalTopics": 2,
+        "topics": [
+          { "topicId": 42, "name": "Introduction to Databases", "content": "Overview of database systems and their importance." },
+          { "topicId": 43, "name": "Relational Model", "content": "Understanding the relational model and SQL." }
+        ],
+        "lecturers": ["Prof. Nancy Moore", "Dr. Thomas Anderson"]
+      },
+      {
+        "id": 11,
+        "course": "Computer Network",
+        "description": "Study of computer networks, protocols, and communication systems.",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4U4ai7nIvGgmPY3zw8O3hsfcuUVZOs9FD4A&s",
+        "totalTopics": 5,
+        "topics": [
+          { "topicId": 44, "name": "Introduction to Networking", "content": "Basics of computer networks and their importance." },
+          { "topicId": 45, "name": "Network Protocols", "content": "Understanding various network protocols and their functions." },
+          { "topicId": 46, "name": "Routing and Switching", "content": "Techniques for routing and switching in networks." },
+          { "topicId": 47, "name": "Wireless Networks", "content": "Overview of wireless networking technologies." },
+          { "topicId": 48, "name": "Network Security", "content": "Ensuring security in computer networks." }
+        ],
+        "lecturers": ["Dr. Patricia Harris", "Prof. Richard Miller"]
+      },
+      {
+        "id": 12,
+        "course": "Artificial Intelligence & Basic Data Science",
+        "description": "Introduction to artificial intelligence and basic concepts in data science.",
+        "imgUrl": "https://media.licdn.com/dms/image/D5612AQFhbGfQlTwJQA/article-cover_image-shrink_720_1280/0/1684380897420?e=2147483647&v=beta&t=9hkuMhzs7fgTW7vAeQaAftrVt_SHQr5bGtZTR6x6OBM",
+        "totalTopics": 4,
+        "topics": [
+          { "topicId": 49, "name": "Introduction to AI", "content": "Overview of artificial intelligence and its applications." },
+          { "topicId": 50, "name": "Machine Learning Basics", "content": "Fundamentals of machine learning and algorithms." },
+          { "topicId": 51, "name": "Data Preprocessing", "content": "Techniques for preparing and cleaning data." },
+          { "topicId": 52, "name": "Supervised Learning", "content": "Introduction to supervised learning methods." }
+        ],
+        "lecturers": ["Dr. Andrew Wilson", "Prof. Jennifer Lee"]
+      }
+    ]
+  }
+  
